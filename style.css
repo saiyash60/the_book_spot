@@ -229,5 +229,14 @@ footer{
         bottom: 0px;
     }
 
+    .bInfo:hover{
+        transform: none;
+    }
+
+    .inner-box button:hover{
+        cursor: pointer;
+        transform: none;
+    }
+
 }
 
